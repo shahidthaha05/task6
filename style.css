@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+#div1{
+    background-color: silver;
+    text-align: center;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 10px 5px 10px 5px;
+
+}
+
+span{
+    margin: 13px;
+    font-size: 20px;
+}
+#div2{
+    border: 2px solid black;
+    background-color: rgba(80, 60, 40, 0.5);
+}
+#div3{
+    border: 2px solid black;
+    background-color: rgba(100, 80, 70, 0.5);
+}
+#div4{
+    border: 2px solid black;
+    background-color: rgba(100, 85, 75, 0.5);
+    
+}
+#abc{
+    margin: 13px;
+}
+#footer{
+    text-align: center;
+}
+#vidio{
+    margin: 10px;
+}
+.div5{
+    height: 100px;
+    width: 100px;   
+   background-image: url(./images/pexels-goumbik-1420709.jpg);
+   position: fixed;
+   top: 0px;
+   right: 0px;
+    margin: 50px;
+    z-index: 2;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    margin: 50px;
+    z-index: 1;
+}
